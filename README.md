@@ -10,7 +10,7 @@ This repo was created to finish the assignment for week 4 of Getting and Cleanin
 
 The variables in the data X are sensor signals measured with waist-mounted smartphone from 30 subjects. The variable in the data Y indicates activity type the subjects performed during recording.
 
-<b>Code explaination </b>
+<b>Code explanation </b>
 
 The code combines the training and the test datasets. It then extracts mean and std variables and creates another dataset with the averages of each variable for each activity and subject.
 
